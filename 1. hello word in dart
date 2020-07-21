@@ -1,0 +1,7 @@
+// What ever we write that must be writtern in the main itelf.
+void main(){
+//    This is my first program in dart programming language.
+  print("hello welcome to dart ");
+  print("My name is prateek");
+  
+}
